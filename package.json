@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "serve": "npx webpack --config webpack.config.js && webpack-dev-server"
+  },
+  "devDependencies": {
+    "webpack": "^4.25.1",
+    "webpack-cli": "^3.3.11",
+    "webpack-dev-server": "^3.10.3"
+  }
+}
